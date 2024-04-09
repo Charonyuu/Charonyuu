@@ -81,7 +81,7 @@
 <img  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Charonyuu&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
 </p> -->
 
-<h2 align="center">👣 My Github Activity:</h2>
+<!-- <h2 align="center">👣 My Github Activity:</h2> -->
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
