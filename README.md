@@ -64,6 +64,77 @@
 <h2 align="center">📕 I spend time on :</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+🌆 Daytime                271 commits         ████████░░░░░░░░░░░░░░░░░   33.01 % 
+🌃 Evening                323 commits         ██████████░░░░░░░░░░░░░░░   39.34 % 
+🌙 Night                  129 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Tuesday                  271 commits         ████████░░░░░░░░░░░░░░░░░   33.01 % 
+Wednesday                118 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Thursday                 82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Friday                   84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Saturday                 93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Sunday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               14 repos            ███████████████░░░░░░░░░░   58.33 % 
+TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Charonyuu/Charonyuu/master/assets/bar_graph.png)
+
+
+ Last Updated on 09/04/2024 08:53:59 UTC
 <!--END_SECTION:waka-->
 
 <!-- <h2 align="center">🏆 My Github Trophy:</h2>
