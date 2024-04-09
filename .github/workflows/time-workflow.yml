@@ -1,10 +1,6 @@
 name: Time Readme
 
 on:
-  push:
-    branches:
-      - master # 监听 main 分支的推送事件，你可以根据需要修改为其他分支名
-
   schedule:
     # Runs at 12am IST
     - cron: "30 18 * * *"
