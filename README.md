@@ -61,10 +61,14 @@
    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+<!-- ITHOME-POST-LIST:START -->
+<!-- ITHOME-POST-LIST:END -->
+
 <h2 align="center">📕 I spend time on :</h2>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning                103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
@@ -84,18 +88,29 @@ Saturday                 93 commits          ███░░░░░░░░�
 Sunday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-💬 Programming Languages: 
+Monday                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+Tuesday                  271 commits         ████████░░░░░░░░░░░░░░░░░   31.22 %
+Wednesday                168 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 %
+Thursday                 81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Friday                   82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+Saturday                 93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Sunday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
 JavaScript               14 repos            █████████████░░░░░░░░░░░░   53.85 % 
@@ -105,14 +120,11 @@ SCSS                     1 repo              █░░░░░░░░░░�
 CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Charonyuu/Charonyuu/master/assets/bar_graph.png)
 
-
- Last Updated on 17/04/2024 18:37:43 UTC
+Last Updated on 17/04/2024 18:37:43 UTC
 <!--END_SECTION:waka-->
 
 <!-- <h2 align="center">🏆 My Github Trophy:</h2>
