@@ -74,6 +74,37 @@
 <h2 align="center">📕 I spend time on :</h2>
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+🌆 Daytime                266 commits         ████████░░░░░░░░░░░░░░░░░   30.47 % 
+🌃 Evening                318 commits         █████████░░░░░░░░░░░░░░░░   36.43 % 
+🌙 Night                  181 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   123 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Tuesday                  253 commits         ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+Wednesday                166 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Thursday                 107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Friday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Saturday                 96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Sunday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -91,7 +122,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Charonyuu/Charonyuu/master/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2025 18:50:41 UTC
+ Last Updated on 04/07/2025 18:49:54 UTC
 <!--END_SECTION:waka-->
 
 <!-- <h2 align="center">🏆 My Github Trophy:</h2>
