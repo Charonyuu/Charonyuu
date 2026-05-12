@@ -67,8 +67,8 @@
 - [自動更新 GitHub Profile README 中的 IT 邦幫忙文章](https://ithelp.ithome.com.tw/articles/10316713) - 瀏覽: 1962
 - [[Day 30] 懶得每次都npm test，用Husky幫忙吧 ＆＆ 結語](https://ithelp.ithome.com.tw/articles/10336289) - 瀏覽: 2037
 - [[Day 29] 實戰useIntersection測試](https://ithelp.ithome.com.tw/articles/10336288) - 瀏覽: 1431
-- [[Day 28] useIntersection實戰 做出infinite scroll吧](https://ithelp.ithome.com.tw/articles/10335993) - 瀏覽: 1176
-- [[Day 27] useLogin test](https://ithelp.ithome.com.tw/articles/10335623) - 瀏覽: 1067
+- [[Day 28] useIntersection實戰 做出infinite scroll吧](https://ithelp.ithome.com.tw/articles/10335993) - 瀏覽: 1179
+- [[Day 27] useLogin test](https://ithelp.ithome.com.tw/articles/10335623) - 瀏覽: 1069
 <!-- ITHOME-POST-LIST:END -->
 
 <h2 align="center">📕 I spend time on :</h2>
