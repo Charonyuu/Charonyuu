@@ -65,10 +65,10 @@
 <h2 align="center">📃 My Ithome Latest Article:</h2>
 
 - [自動更新 GitHub Profile README 中的 IT 邦幫忙文章](https://ithelp.ithome.com.tw/articles/10316713) - 瀏覽: 1997
-- [[Day 30] 懶得每次都npm test，用Husky幫忙吧 ＆＆ 結語](https://ithelp.ithome.com.tw/articles/10336289) - 瀏覽: 2092
-- [[Day 29] 實戰useIntersection測試](https://ithelp.ithome.com.tw/articles/10336288) - 瀏覽: 1469
-- [[Day 28] useIntersection實戰 做出infinite scroll吧](https://ithelp.ithome.com.tw/articles/10335993) - 瀏覽: 1195
-- [[Day 27] useLogin test](https://ithelp.ithome.com.tw/articles/10335623) - 瀏覽: 1085
+- [[Day 30] 懶得每次都npm test，用Husky幫忙吧 ＆＆ 結語](https://ithelp.ithome.com.tw/articles/10336289) - 瀏覽: 2096
+- [[Day 29] 實戰useIntersection測試](https://ithelp.ithome.com.tw/articles/10336288) - 瀏覽: 1471
+- [[Day 28] useIntersection實戰 做出infinite scroll吧](https://ithelp.ithome.com.tw/articles/10335993) - 瀏覽: 1197
+- [[Day 27] useLogin test](https://ithelp.ithome.com.tw/articles/10335623) - 瀏覽: 1087
 <!-- ITHOME-POST-LIST:END -->
 
 <h2 align="center">📕 I spend time on :</h2>
