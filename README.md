@@ -68,7 +68,7 @@
 - [[Day 30] 懶得每次都npm test，用Husky幫忙吧 ＆＆ 結語](https://ithelp.ithome.com.tw/articles/10336289) - 瀏覽: 2124
 - [[Day 29] 實戰useIntersection測試](https://ithelp.ithome.com.tw/articles/10336288) - 瀏覽: 1484
 - [[Day 28] useIntersection實戰 做出infinite scroll吧](https://ithelp.ithome.com.tw/articles/10335993) - 瀏覽: 1204
-- [[Day 27] useLogin test](https://ithelp.ithome.com.tw/articles/10335623) - 瀏覽: 1098
+- [[Day 27] useLogin test](https://ithelp.ithome.com.tw/articles/10335623) - 瀏覽: 1099
 <!-- ITHOME-POST-LIST:END -->
 
 <h2 align="center">📕 I spend time on :</h2>
