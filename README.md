@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **bensona1219@gmail.com**
 
-- 📓 CakeResume：https://www.cakeresume.com/benson1219
+- 📓 Resume：[https://charonyuresume.vercel.app/](https://charonyuresume.vercel.app/#Career) 
 
 <h2 align="center">⌨️ Main Skills </h2>  
 <p>
