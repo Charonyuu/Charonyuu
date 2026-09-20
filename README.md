@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Charonyuu<br><br> <img src="https://komarev.com/ghpvc/?username=Charonyuu&style=for-the-badge"> </h1>
 
-- 💻 [My Website](https://charonyuresume.vercel.app/)
-
 - 🔭 I’m currently working on a big project for shopping by using MERN (MongoDB, Express.js, React, Node.js) stack and GCP (Google Cloud Platform)
 
-- 📝 I regularly write articles on [my website](https://charonyuresume.vercel.app/Blog) and [ithome post](https://ithelp.ithome.com.tw/users/20162289/ironman)
+- 📝 I regularly write articles on [my website](https://resume.app.charonyu.cc/Blog) and [ithome post](https://ithelp.ithome.com.tw/users/20162289/ironman)
 
 - 📫 How to reach me **bensona1219@gmail.com**
 
-- 📓 Resume：[https://charonyuresume.vercel.app/](https://charonyuresume.vercel.app/#Career) 
+- 📓 My Website：https://resume.app.charonyu.cc/
 
 <h2 align="center">⌨️ Main Skills </h2>  
 <p>
