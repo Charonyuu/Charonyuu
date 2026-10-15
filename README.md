@@ -71,21 +71,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-🌆 Daytime                322 commits         ████████░░░░░░░░░░░░░░░░░   30.64 % 
-🌃 Evening                396 commits         █████████░░░░░░░░░░░░░░░░   37.68 % 
-🌙 Night                  212 commits         █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+🌞 Morning                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+🌆 Daytime                322 commits         ████████░░░░░░░░░░░░░░░░░   30.58 % 
+🌃 Evening                396 commits         █████████░░░░░░░░░░░░░░░░   37.61 % 
+🌙 Night                  214 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Tuesday                  279 commits         ███████░░░░░░░░░░░░░░░░░░   26.55 % 
-Wednesday                181 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Thursday                 129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Friday                   72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Saturday                 108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Sunday                   143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Monday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Tuesday                  279 commits         ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+Wednesday                181 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Thursday                 129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Friday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Saturday                 108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Sunday                   143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
 ```
 
 
@@ -122,7 +122,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Charonyuu/Charonyuu/master/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 21:54:12 UTC
+ Last Updated on 15/10/2026 21:39:49 UTC
 <!--END_SECTION:waka-->
 
 <!-- <h2 align="center">🏆 My Github Trophy:</h2>
