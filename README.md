@@ -108,11 +108,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               20 repos            █████████░░░░░░░░░░░░░░░░   37.74 % 
-TypeScript               17 repos            ████████░░░░░░░░░░░░░░░░░   32.08 % 
-Swift                    5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JavaScript               20 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
+TypeScript               17 repos            ████████░░░░░░░░░░░░░░░░░   30.91 % 
+Swift                    6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
@@ -122,7 +122,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Charonyuu/Charonyuu/master/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 21:54:57 UTC
+ Last Updated on 22/10/2026 21:52:26 UTC
 <!--END_SECTION:waka-->
 
 <!-- <h2 align="center">🏆 My Github Trophy:</h2>
