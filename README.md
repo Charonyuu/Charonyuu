@@ -1,12 +1,24 @@
 <h1 align="center">Hi 👋, I'm Charonyuu<br><br> <img src="https://komarev.com/ghpvc/?username=Charonyuu&style=for-the-badge"> </h1>
 
-- 🔭 I’m currently working on a big project for shopping by using MERN (MongoDB, Express.js, React, Node.js) stack and GCP (Google Cloud Platform)
+- 💻 Full-stack engineer in the tech industry, based in Taiwan (React / Next.js / Node.js / TypeScript)
 
-- 📝 I regularly write articles on [my website](https://resume.app.charonyu.cc/Blog) and [ithome post](https://ithelp.ithome.com.tw/users/20162289/ironman)
+- 📱 Also an indie iOS developer on the side — building simple, useful iPhone apps like Job Pocket, SamePhoto and Lumee
 
-- 📫 How to reach me **bensona1219@gmail.com**
+- 🌐 Apps & blog: https://apps.app.charonyu.cc/
 
-- 📓 My Website：https://resume.app.charonyu.cc/
+- 🍎 App Store: [Cheng Yu Chiang](https://apps.apple.com/tw/developer/cheng-yu-chiang/id1888129765)
+
+- 📝 Articles on [iThome](https://ithelp.ithome.com.tw/users/20162289/ironman)
+
+- 📓 About me: https://apps.app.charonyu.cc/me/
+
+- 📫 Contact: **charonyuwork@gmail.com**
+
+<p align="center">
+  <a href="https://www.threads.com/@your.engineer.ben"><img alt="Threads" src="https://img.shields.io/badge/Threads-@your.engineer.ben-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
+  <a href="https://www.instagram.com/your.engineer.ben/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@your.engineer.ben-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://ko-fi.com/charonyu"><img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-charonyu-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
 
 <h2 align="center">⌨️ Main Skills </h2>  
 <p>
@@ -20,6 +32,9 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+    <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
+    <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
     <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
