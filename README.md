@@ -86,21 +86,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-🌆 Daytime                376 commits         ████████░░░░░░░░░░░░░░░░░   30.06 % 
-🌃 Evening                518 commits         ██████████░░░░░░░░░░░░░░░   41.41 % 
-🌙 Night                  235 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+🌞 Morning                122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+🌆 Daytime                386 commits         ████████░░░░░░░░░░░░░░░░░   30.11 % 
+🌃 Evening                535 commits         ██████████░░░░░░░░░░░░░░░   41.73 % 
+🌙 Night                  239 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Tuesday                  292 commits         ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-Wednesday                184 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Thursday                 156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Friday                   102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Saturday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Sunday                   236 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Monday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Tuesday                  294 commits         ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+Wednesday                184 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Thursday                 156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Friday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Saturday                 135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Sunday                   251 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
 ```
 
 
@@ -123,11 +123,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               21 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
-TypeScript               17 repos            ████████░░░░░░░░░░░░░░░░░   30.36 % 
-Swift                    6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+JavaScript               22 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
+TypeScript               17 repos            ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+Swift                    9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 
@@ -137,7 +137,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Charonyuu/Charonyuu/master/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 22:36:20 UTC
+ Last Updated on 31/10/2026 21:49:28 UTC
 <!--END_SECTION:waka-->
 
 <!-- <h2 align="center">🏆 My Github Trophy:</h2>
